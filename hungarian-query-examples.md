@@ -3,9 +3,19 @@ the paper, tailored to some extent to Hungarian cultural references. These were
 ge:wÉ::
 
 1. **Számolási okfejtés (Numerical Reasoning)**:
-   *Példa*: "Hányszor gyorsabb a második leggyorsabb madár Magyarországon a leggyorsabb emberhez képest? Kerekítsd a legközelebbi egész számra!"
+   *Példa*: "Hányszor gyorsabb a második leggyorsabb magyarországi madár a
+   világ leggyorsabb emberéhez képest? Kerekítsd a legközelebbi egész számra!"
    
-   In this example, instead of comparing birds from the Americas and a globally recognized athlete, the comparison is localized to Hungarian wildlife and a well-known Hungarian athlete.
+   In this example, instead of comparing birds from the Americas, the
+   comparison is localized to Hungarian wildlife. However, the athlete remains
+   global, not to make the task too complex.
+   It that [the two fastest
+   birds](https://amierdonk.hu/2019/09/22/ok-vilag-leggyorsabb-madarai/),
+   [peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon)
+   [(vándorsólyom)](https://hu.wikipedia.org/wiki/V%C3%A1ndors%C3%B3lyom) and
+   [golden eagle](https://en.wikipedia.org/wiki/Golden_eagle)
+   [(szirti sas)](https://hu.wikipedia.org/wiki/Szirti_sas) are both present in Hungary.
+
 
 2. **Táblázatos okfejtés (Tabular Reasoning)**:
    *Példa*: "Hány gólt lőtt a magyar válogatott kapitánya az 1954-es világbajnokságon?"
