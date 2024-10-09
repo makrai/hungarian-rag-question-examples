@@ -1,6 +1,5 @@
 Here are the adapted Hungarian examples for the reasoning types in Table 2 of
-the paper, tailored to some extent to Hungarian cultural references. These were
-ge:wÉ::
+the paper, tailored to some extent to Hungarian cultural references.
 
 1. **Számolási okfejtés (Numerical Reasoning)**:
    *Példa*: "Hányszor gyorsabb a második leggyorsabb magyarországi madár a
