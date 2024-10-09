@@ -19,7 +19,9 @@ the paper, tailored to some extent to Hungarian cultural references.
 2. **Táblázatos okfejtés (Tabular Reasoning)**:
    *Példa*: "Hány gólt lőtt a magyar válogatott kapitánya az 1954-es világbajnokságon?"
    
-   This example adapts the original sports question to focus on Hungarian football history, particularly referencing the legendary 1954 World Cup.
+   This example adapts the original sports question to focus on Hungarian
+   football history, particularly referencing the legendary [1954 World
+   Cup](https://hu.wikipedia.org/wiki/1954-es_labdar%C3%BAg%C3%B3-vil%C3%A1gbajnoks%C3%A1g).
 
 3. **Több feltételes okfejtés (Multiple Constraints)**:
    *Példa*: "Egy repülőteret keresek, amely közel van az M7-es autópályához és a Balatonhoz. Tudod, melyik repülőtér lehet ez?"
