@@ -38,7 +38,7 @@ ge:wÉ::
 
 
 4. **Időbeli okfejtés (Temporal Reasoning)**:
-   *Példa*: "Nemes Jeles László Oscar-díjat nyert a legjobb rendezésért. Ki kapta meg ugyanezt a díjat tizenkét évvel korábban?"
+   *Példa*: "Nemes Jeles László Oscar-díjat nyert a legjobb külföldi film kategóriában. Ki kapta meg ugyanezt a díjat tizenkét évvel korábban?"
    
    This question now references Nemes Jeles László, a Hungarian filmmaker, and an Oscar timeline relevant to Hungarian cinema.
 
