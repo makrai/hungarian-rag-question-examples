@@ -23,9 +23,19 @@ ge:wÉ::
    This example adapts the original sports question to focus on Hungarian football history, particularly referencing the legendary 1954 World Cup.
 
 3. **Több feltételes okfejtés (Multiple Constraints)**:
-   *Példa*: "Egy repülőteret keresek, amely közel van az M7-es autópálya és a Balaton találkozásához. Tudod, melyik repülőtér lehet ez?"
+   *Példa*: "Egy repülőteret keresek, amely közel van az M7-es autópályához és a Balatonhoz. Tudod, melyik repülőtér lehet ez?"
    
    Instead of using U.S. highways, this example is adapted to Hungarian geography, referencing the M7 motorway and the Balaton region.
+   From ChatGPT's own answer: 
+
+   > A kérdésedre válaszolva, az M7-es autópálya közelében található repülőtér,
+   > amely a Balaton térségében helyezkedik el, a **Hévíz-Balaton Nemzetközi
+   > Repülőtér**. Ez a repülőtér Sármellék külterületén található, körülbelül
+   > 10 kilométerre a Balaton nyugati végétől, és könnyen megközelíthető az
+   > M7-es autópályáról
+   > [【43†source】](https://hu.wikipedia.org/wiki/H%C3%A9v%C3%ADz-Balaton_nemzetk%C3%B6zi_rep%C3%BCl%C5%91t%C3%A9r)
+   > [【44†source】](https://hu.wikipedia.org/wiki/M7-es_aut%C3%B3p%C3%A1lya_(Magyarorsz%C3%A1g)). 
+
 
 4. **Időbeli okfejtés (Temporal Reasoning)**:
    *Példa*: "Nemes Jeles László Oscar-díjat nyert a legjobb rendezésért. Ki kapta meg ugyanezt a díjat tizenkét évvel korábban?"
