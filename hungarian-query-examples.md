@@ -8,7 +8,7 @@ the paper, tailored to some extent to Hungarian cultural references.
    In this example, instead of comparing birds from the Americas, the
    comparison is localized to Hungarian wildlife. However, the athlete remains
    global, not to make the task too complex.
-   It that [the two fastest
+   [The two fastest
    birds](https://amierdonk.hu/2019/09/22/ok-vilag-leggyorsabb-madarai/),
    [peregrine falcon](https://en.wikipedia.org/wiki/Peregrine_falcon)
    [(vándorsólyom)](https://hu.wikipedia.org/wiki/V%C3%A1ndors%C3%B3lyom) and
