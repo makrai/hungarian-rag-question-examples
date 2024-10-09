@@ -25,19 +25,19 @@ the paper, tailored to some extent to Hungarian cultural references.
 
 3. **Több feltételes okfejtés (Multiple Constraints)**:
 
-  **Question:** "Keresek egy éttermet, ami a Duna partján van, és vegetáriánus ételeket kínál."
+   **Question:** "Keresek egy éttermet, ami a Duna partján van, és vegetáriánus ételeket kínál."
 
-  **Translation:** "I'm looking for a restaurant that is located by the Danube River and offers vegetarian dishes."
-  
-  ChatGPT's own answer: 
+   **Translation:** "I'm looking for a restaurant that is located by the Danube River and offers vegetarian dishes."
 
-  > Igen, Budapesten több olyan étterem is található, amely a Duna partján helyezkedik el és vegetáriánus ételeket kínál. Itt van néhány példa:
-  > 
-  > 1. **Kiosk Budapest** - Az étterem a Duna partján található, és széles választékot kínál vegetáriánus ételekből is.
-  > 
-  > 2. **Dunacorso** - A Duna mellett található, és több vegetáriánus fogást is kínál a menüjében.
-  > 
-  > 3. **Café Gerbeaud** - Bár inkább cukrászdaként ismert, a Duna partján található, és kínál vegetáriánus opciókat.
+   ChatGPT's own answer: 
+
+   > Igen, Budapesten több olyan étterem is található, amely a Duna partján helyezkedik el és vegetáriánus ételeket kínál. Itt van néhány példa:
+   > 
+   > 1. **Kiosk Budapest** - Az étterem a Duna partján található, és széles választékot kínál vegetáriánus ételekből is.
+   > 
+   > 2. **Dunacorso** - A Duna mellett található, és több vegetáriánus fogást is kínál a menüjében.
+   > 
+   > 3. **Café Gerbeaud** - Bár inkább cukrászdaként ismert, a Duna partján található, és kínál vegetáriánus opciókat.
 
 4. **Időbeli okfejtés (Temporal Reasoning)**:
    *Példa*: "Nemes Jeles László Oscar-díjat nyert a legjobb külföldi film
