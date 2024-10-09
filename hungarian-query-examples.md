@@ -1,4 +1,6 @@
-Here are the adapted Hungarian examples for the reasoning types you mentioned, tailored to Hungarian cultural references:
+Here are the adapted Hungarian examples for the reasoning types in Table 2 of
+the paper, tailored to some extent to Hungarian cultural references. These were
+ge:wÉ::
 
 1. **Számolási okfejtés (Numerical Reasoning)**:
    *Példa*: "Hányszor gyorsabb a második leggyorsabb madár Magyarországon a leggyorsabb emberhez képest? Kerekítsd a legközelebbi egész számra!"
@@ -21,8 +23,4 @@ Here are the adapted Hungarian examples for the reasoning types you mentioned, t
    This question now references Nemes Jeles László, a Hungarian filmmaker, and an Oscar timeline relevant to Hungarian cinema.
 
 5. **Utófeldolgozás (Post-Processing)**:
-   *Példa*: "Mi az az évszám, ami öt évvel van az Osztrák-Magyar Monarchia alapítása után római számokkal leírva?"
-   
-   This example adjusts the historical context to Hungarian history, asking for a post-processing step (converting a date into Roman numerals) related to the Austro-Hungarian Empire's foundation.
-
-These examples keep the reasoning tasks intact but localize them to Hungarian culture and history.
+   *Példa*: "Hogy írják római számokkal az Osztrák-Magyar Monarchia alapítása után öttel való évet?"
